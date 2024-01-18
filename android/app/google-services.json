@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253595123380",
+    "project_id": "amazing-city-411419",
+    "storage_bucket": "amazing-city-411419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253595123380:android:48f02aa1e509892d0e21e1",
+        "android_client_info": {
+          "package_name": "com.liqart.liqart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANXb3qKimx8mBB_-SEcueEe85yln5lMa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
